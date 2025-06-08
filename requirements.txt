@@ -1,0 +1,13 @@
+# Basic web framework (to be added later)
+# fastapi
+# uvicorn
+
+# Data processing (to be added later)  
+# pandas
+# numpy
+
+# Machine learning (to be added later)
+# torch
+# torchvision
+
+# Currently using only basic HTML, so no special packages are required. 
